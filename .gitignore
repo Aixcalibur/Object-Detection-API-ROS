@@ -1,6 +1,8 @@
 *.h5
 *.weights
 *.tar
+*.avi
+*.mp4
 *.tfrecord
 /checkpoints/*
 /serving/*
@@ -138,3 +140,6 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python
+weights/yolov3.tf.data-00000-of-00001
+*.mp4
+*.mp4
